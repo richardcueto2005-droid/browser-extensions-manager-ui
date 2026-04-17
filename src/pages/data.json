@@ -1,0 +1,74 @@
+[
+    {
+        "logo": "./assets/images/logo-devlens.svg",
+        "name": "DevLens",
+        "description": "Inspecciona rápidamente diseños de página y visualiza los límites de los elementos.",
+        "isActive": true
+    },
+    {
+        "logo": "./assets/images/logo-style-spy.svg",
+        "name": "StyleSpy",
+        "description": "Analiza y copia instantáneamente el CSS de cualquier elemento de la página web.",
+        "isActive": true
+    },
+    {
+        "logo": "./assets/images/logo-speed-boost.svg",
+        "name": "SpeedBoost",
+        "description": "Optimiza el uso de recursos del navegador para acelerar la carga de las páginas.",
+        "isActive": false
+    },
+    {
+        "logo": "./assets/images/logo-json-wizard.svg",
+        "name": "JSONWizard",
+        "description": "Formatea, valida y embellece respuestas JSON directamente en el navegador.",
+        "isActive": true
+    },
+    {
+        "logo": "./assets/images/logo-tab-master-pro.svg",
+        "name": "TabMaster Pro",
+        "description": "Organiza las pestañas del navegador en grupos y sesiones de trabajo.",
+        "isActive": true
+    },
+    {
+        "logo": "./assets/images/logo-viewport-buddy.svg",
+        "name": "ViewportBuddy",
+        "description": "Simula varias resoluciones de pantalla directamente dentro del navegador.",
+        "isActive": false
+    },
+    {
+        "logo": "./assets/images/logo-markup-notes.svg",
+        "name": "Markup Notes",
+        "description": "Permite realizar anotaciones y notas en las páginas para depuración colaborativa.",
+        "isActive": true
+    },
+    {
+        "logo": "./assets/images/logo-grid-guides.svg",
+        "name": "GridGuides",
+        "description": "Superpone cuadrículas personalizables y guías de alineación en cualquier página.",
+        "isActive": false
+    },
+    {
+        "logo": "./assets/images/logo-palette-picker.svg",
+        "name": "Palette Picker",
+        "description": "Extrae instantáneamente paletas de colores de cualquier sitio web.",
+        "isActive": true
+    },
+    {
+        "logo": "./assets/images/logo-link-checker.svg",
+        "name": "LinkChecker",
+        "description": "Escanea y resalta los enlaces rotos en cualquier página web.",
+        "isActive": true
+    },
+    {
+        "logo": "./assets/images/logo-dom-snapshot.svg",
+        "name": "DOM Snapshot",
+        "description": "Captura y exporta estructuras DOM de forma rápida y sencilla.",
+        "isActive": false
+    },
+    {
+        "logo": "./assets/images/logo-console-plus.svg",
+        "name": "ConsolePlus",
+        "description": "Consola de desarrollador mejorada con filtrado y registro avanzado.",
+        "isActive": true
+    }
+]
